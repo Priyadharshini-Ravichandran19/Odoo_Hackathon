@@ -1,0 +1,7 @@
+{
+  "name": "GlobalTrotter Travel Planner",
+  "description": "A comprehensive travel planning and community platform featuring AI-powered suggestions, itinerary builders, and admin analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
